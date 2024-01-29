@@ -1,0 +1,26 @@
+{
+  "24hr": {
+    "volume": {
+      "bets": 252890,
+      "bullish": "$186,908",
+      "bearish": "$67,612"
+    },
+    "visitors": "1254",
+    "views": "21560",
+    "walletsConnected": "321",
+    "players": "12890",
+    "stakedHillo": "1,503,560"
+  },
+  "6hr": {
+    "volume": {
+      "bets": 260890,
+      "bullish": "$176,908",
+      "bearish": "$69,612"
+    },
+    "visitors": "1200",
+    "views": "2000",
+    "walletsConnected": "221",
+    "players": "3456",
+    "stakedHillo": "1,203,350"
+  }
+}
